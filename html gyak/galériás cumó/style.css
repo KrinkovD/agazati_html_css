@@ -1,0 +1,12 @@
+.fejléc {
+  background-color: #902F55;
+  padding: 30px;
+  text-align: center;
+  font-size: 20px;
+  color: white;
+}
+
+nav {
+  flex: 1;
+  padding: 20px;
+}
